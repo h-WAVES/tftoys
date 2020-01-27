@@ -1,0 +1,14 @@
+python 3.6
+tensorflow 1.12
+
+instance format: label\tfeature1\tfeature2\tfeature3....
+
+slot_num is feature number
+
+support multi-value feature
+
+using Estimator high-level API build and train the model
+
+reference: https://github.com/qiaoguan/deep-ctr-prediction
+
+python train.py
